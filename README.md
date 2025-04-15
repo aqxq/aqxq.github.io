@@ -1,6 +1,6 @@
-# aqxq.github.io
+# static website!
 
-This is a personal portfolio and blog website for showcasing projects, sharing thoughts, and connecting with others.
+personal portfolio and blog website for showcasing projects, sharing thoughts, and connecting with others
 
 ## Features
 - **Portfolio Links**: Quick access to GitHub, LinkedIn, and email.
@@ -10,15 +10,15 @@ This is a personal portfolio and blog website for showcasing projects, sharing t
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aqxq/aqxq.github.io.git
+   git clone https://github.com/aqxq/static-website.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd aqxq.github.io
+   cd static-website
    ```
 3. Open the project in a browser:
    - If using a local server, serve the files (e.g., with `Live Server` in VS Code).
-   - Alternatively, open `views/index.html` directly in a browser.
+   - Alternatively, open `index.html` directly in a browser.
 
 ## Usage
 - Visit the homepage to explore portfolio links and learn more about the author.
@@ -50,8 +50,4 @@ Contributions are welcome! To contribute:
 ## Contact
 For any inquiries or feedback, feel free to reach out:
 - **Email**: hello@devnandan.me
-- **GitHub**: [aqxq](https://github.com/aqxq)
-- **LinkedIn**: [Dev Nandan Suraj](https://linkedin.com/in/dev-nandan-suraj/)
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
