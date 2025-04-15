@@ -6,7 +6,6 @@ This is a personal portfolio and blog website for showcasing projects, sharing t
 - **Portfolio Links**: Quick access to GitHub, LinkedIn, and email.
 - **Blog Section**: A space to share ideas and stories.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
-- **Interactive Background**: Particle effects for a modern look.
 
 ## Setup Instructions
 1. Clone the repository:
